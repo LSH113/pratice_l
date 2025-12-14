@@ -6,5 +6,6 @@ public class Main {
         System.out.println("Hello, World!");
         System.out.println("마라탕;;;;");
         System.out.println("마라샹궈;;;;");
+        System.out.println("수정1");
     }
 }
