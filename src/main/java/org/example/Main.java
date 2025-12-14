@@ -9,7 +9,6 @@ public class Main {
         System.out.println("lhm3333");
         System.out.println("lhm44444");
         System.out.println("lhm55555");
-        System.out.println("이승혃 수정1");
-        System.out.println("이승혃 수정2");
+        System.out.println("로컬 dev 커밋 중 working dev 커밋 및 push");
     }
 }
